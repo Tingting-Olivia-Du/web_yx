@@ -1,0 +1,19 @@
+{
+  "name": "web_develop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "file:E:/APP_DATA/web_develop/express-4.21.2.tgz",
+    "media-typer": "https://registry.npmjs.org/media-typer/-/media-typer-0.3.0.tgz",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.11.5",
+    "nodemailer": "^6.9.16"
+  },
+  "description": ""
+}
